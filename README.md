@@ -1,16 +1,18 @@
-## Hi there 👋
+![Banner](https://i.imgur.com/placeholder.png)
 
-<!--
-**AdiCodes-bug/AdiCodes-bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aditya 👋
+### C Programmer & Learner from Bhubaneswar
 
-Here are some ideas to get you started:
+🚀 Joined GitHub today - Learning C Programming
+💻 My first repo: My-first-code - 12 beginner C programs
+📚 Currently learning: Loops, Functions, Pointers
+🎯 Goal: To become a full-stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 📊 GitHub Stats
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiCodes-bug&show_icons=true&theme=tokyonight)
+
+---
+⭐ From Berhampur, Odisha with ❤️
