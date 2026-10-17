@@ -1,6 +1,6 @@
 
 <img width="2240" height="1120" alt="WhatsApp Image 2026-10-17 at 3 16 16 PM (1)" src="https://github.com/user-attachments/assets/364d96e1-0d26-473f-b758-f7098442f72d" />
-🚀 Joined GitHub today - Learning C Programming
+🚀  Learning C Programming
 💻 My first repo: My-first-code - 12 beginner C programs
 📚 Currently learning: Loops, Functions, Pointers
 🎯 Goal: To become a full-stack developer
