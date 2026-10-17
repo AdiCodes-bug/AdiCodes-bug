@@ -1,7 +1,7 @@
 ![Banner](https://i.imgur.com/placeholder.png)
 
 # Hi, I'm Aditya 👋
-### C Programmer & Learner from Bhubaneswar
+### C Programmer & Learner from Berhampur
 
 🚀 Joined GitHub today - Learning C Programming
 💻 My first repo: My-first-code - 12 beginner C programs
